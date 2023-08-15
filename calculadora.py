@@ -1,5 +1,5 @@
 
-#calculadora básica
+#calculadora 4 operações básicas em Python
 
 num1 = float(input('Digite um número: '));
 num2 = float(input("Diite o outro número: "));
