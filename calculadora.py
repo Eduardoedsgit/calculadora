@@ -1,9 +1,9 @@
 
-#calculadora 4 operações básicas em Python
+#Calculadora 4 operações básicas em Python
 
 num1 = float(input('Digite um número: '));
 print(100 * '=');
-num2 = float(input("Diite o outro número: "));
+num2 = float(input("Digite um outro número: "));
 print(100 * '=');
 oper = str(input('+ , -, x, / Digite um símbolo para a operação desejada: '))
 print(100 * '=');
