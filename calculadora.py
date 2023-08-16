@@ -1,4 +1,6 @@
 
+#projeto acadêmico
+#autor: Eduardo Machado
 #Calculadora 4 operações básicas em Python
 
 num1 = float(input('Digite um número: '));
